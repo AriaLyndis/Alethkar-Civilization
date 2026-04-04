@@ -1,20 +1,20 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Alethkar",
+		"leaderName": "Dalinar Kholin",
+		"adjective": ["Alethi"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "They face the Blackthorn!",
+		"startIntroPart2": "Dalinar Kholin, bloodthirsty warlord, scourer of cities, and now founder of the Knights Radiant. Lead your nation into a great future!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You have drawn the Blackthorn's ire. Make your peace.",
+		"attacked": "The Alethi will not fall to the likes of you!",
+		"defeated": "Life before death, strength before weakness, journey before desti-...",
+		"introduction": "Greetings. Have you read The Way of Kings?",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Hail, friend.",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
@@ -24,13 +24,14 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Infighting will not serve us against the desolations to come.",
+		"tradeRequest": "You would be wise to take me up on this offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+		"outerColor": [23, 143, 255],
+		"innerColor": [255, 229, 117],
+		"uniqueName": "The Thrill",
+		"uniques": ["[+15]% Strength <when attacking>", "Heals [10] damage if it kills a unit <for [non-[Air]] units>"],
+		"cities": ["Kholinar","Rathalas","Revolar","Dumadari","Karanak","Hearthstone","Savalashi","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
