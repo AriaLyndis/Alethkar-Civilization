@@ -27,8 +27,8 @@
 		"afterPeace": "Infighting will not serve us against the desolations to come.",
 		"tradeRequest": "You would be wise to take me up on this offer.",
 
-		"outerColor": [60, 123, 192],
-		"innerColor": [241, 212, 46],
+		"outerColor": [2, 65, 112],
+		"innerColor": [240, 198, 12],
 		"uniqueName": "The Thrill",
 		"uniques": ["Heals [15] damage if it kills a unit <for [non-[Air]] units> <hidden from users>", "Comment [Non-Air Units Heal 15 damage after killing a unit]", "[+15]% Strength <when attacking>"],
 		"cities": ["Kholinar","Rathalas","Revolar","Dumadari","Karanak","Hearthstone","Savalashi","Q'Vronens","Q'Aerlae",
