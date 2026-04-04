@@ -28,7 +28,7 @@
 		"tradeRequest": "You would be wise to take me up on this offer.",
 
 		"outerColor": [1, 103, 148],
-		"innerColor": [255, 201, 91],
+		"innerColor": [255, 196, 91],
 		"uniqueName": "The Thrill",
 		"uniques": ["Heals [15] damage if it kills a unit <for [non-[Air]] units> <hidden from users>", "Comment [Non-Air Units Heal 15 damage after killing a unit]", "[+15]% Strength <when attacking>"],
 		"cities": ["Kholinar","Rathalas","Revolar","Dumadari","Karanak","Hearthstone","Savalashi","Q'Vronens","Q'Aerlae",
