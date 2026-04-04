@@ -9,6 +9,8 @@
 	},
 	{
 		"name": "Soulcasters",
+		"replaces": "Water Mill",
+		"uniqueTo": "Alethkar",
 		"maintenance": 2,
 		"food": 2,
 		"production": 1,
