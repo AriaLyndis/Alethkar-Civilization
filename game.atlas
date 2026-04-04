@@ -11,14 +11,14 @@ BuildingIcons/Soulcasters
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Vorin Underscript
+BuildingIcons/Vorin Undertext
   rotate: false
   xy: 524, 524
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Kholinar
+NationIcons/Alethkar
   rotate: false
   xy: 4, 112
   size: 512, 512
