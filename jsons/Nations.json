@@ -28,9 +28,9 @@
 		"tradeRequest": "You would be wise to take me up on this offer.",
 
 		"outerColor": [23, 143, 255],
-		"innerColor": [255, 229, 117],
+		"innerColor": [191, 172, 84],
 		"uniqueName": "The Thrill",
-		"uniques": ["[+15]% Strength <when attacking>", "Heals [10] damage if it kills a unit <for [non-[Air]] units>"],
+		"uniques": ["[+15]% Strength <when attacking>", "Heals [15] damage if it kills a unit <for [non-[Air]] units>"],
 		"cities": ["Kholinar","Rathalas","Revolar","Dumadari","Karanak","Hearthstone","Savalashi","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
