@@ -30,7 +30,7 @@
 		"outerColor": [23, 143, 255],
 		"innerColor": [191, 172, 84],
 		"uniqueName": "The Thrill",
-		"uniques": ["[+15]% Strength <when attacking>", "Heals [15] damage if it kills a unit <for [non-[Air]] units>"],
+		"uniques": ["Heals [15] damage if it kills a unit <for [non-[Air]] units> <hidden from users>", "Comment [Non-Air Units Heal 15 damage after killing a unit]", "[+15]% Strength <when attacking>"],
 		"cities": ["Kholinar","Rathalas","Revolar","Dumadari","Karanak","Hearthstone","Savalashi","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
