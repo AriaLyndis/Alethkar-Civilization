@@ -4,7 +4,7 @@
 		"replaces": "Library",
 		"uniqueTo": "Alethkar",
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Faith] per [2] population [in this city]"],
+		"uniques": ["[+1 Science] per [2] population [in this city]", "[+2 Faith]"],
 		"requiredTech": "Writing"
 	},
 	{
@@ -15,7 +15,7 @@
 		"food": 2,
 		"production": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Food] from [Mine] tiles [in this city]", "[+2 Food] from [Quarry] tiles [in this city]"],
+		"uniques": [ "[+1 Food] from [Mine] tiles [in this city]", "[+1 Food] from [Quarry] tiles [in this city]"],
 		"requiredTech": "The Wheel"
 	}
 ]
