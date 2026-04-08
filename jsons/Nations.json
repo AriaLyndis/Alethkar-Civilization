@@ -30,7 +30,7 @@
 		"outerColor": [2, 65, 112],
 		"innerColor": [240, 198, 12],
 		"uniqueName": "The Thrill",
-		"uniques": [ "Heals [15] damage if it kills a unit <for [{Melee]} {Land}] units> <hidden from users>", "Comment [Land units without ranged strength heal 15 damage upon killing an enemy.]", "[+15]% Strength <when attacking>" ],
+		"uniques": [ "Heals [15] damage if it kills a unit <for [{Melee} {Land}] units> <hidden from users>", "Comment [Land units without ranged strength heal 15 damage upon killing an enemy.]", "[+15]% Strength <when attacking>" ],
 		"cities": ["Kholinar","Rathalas","Revolar","Dumadari","Karanak","Hearthstone","Savalashi","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
