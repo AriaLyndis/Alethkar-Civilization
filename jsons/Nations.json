@@ -2,38 +2,71 @@
 	{
 		"name": "Alethkar",
 		"leaderName": "Dalinar Kholin",
-		"adjective": ["Alethi"	],
-		"startBias": ["Hill"],
+		"adjective": [ "Alethi" ],
+		"startBias": [ "Hill" ],
 		"preferredVictoryType": "Domination",
-		
+
 		"startIntroPart1": "They face the Blackthorn!",
 		"startIntroPart2": "Dalinar Kholin, bloodthirsty warlord, scourer of cities, and now founder of the Knights Radiant. Lead your nation into a great future!",
-		
+
 		"declaringWar": "You have drawn the Blackthorn's ire. Make your peace.",
 		"attacked": "The Alethi will not fall to the likes of you!",
 		"defeated": "Life before death, strength before weakness, journey before desti-...",
 		"introduction": "Greetings. Have you read The Way of Kings?",
-		
+
 		"neutralHello": "Hail, friend.",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralLetsHearIt": [ "Go on.", "What do you say?", "You may begin." ],
+		"neutralNo": [ "We absolutely refuse.", "No!", "I refuse." ],
+		"neutralYes": [ "Very good.", "Of course, yes.", "That is very good." ],
 
 		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
+		"hateLetsHearIt": [ "Speak!", "What do you say?", "Go on." ],
+		"hateNo": [ "That is not possible!", "We are not agreeing to that!", "I beg your pardon?" ],
+		"hateYes": [ "That is fine.", "That is good enough.", "Very well..." ],
+
 		"afterPeace": "Infighting will not serve us against the desolations to come.",
 		"tradeRequest": "You would be wise to take me up on this offer.",
 
-		"outerColor": [2, 65, 112],
-		"innerColor": [240, 198, 12],
+		"outerColor": [ 2, 65, 112 ],
+		"innerColor": [ 240, 198, 12 ],
 		"uniqueName": "The Thrill",
 		"uniques": [ "Heals [15] damage if it kills a unit <for [{Melee} {Land}] units> <hidden from users>", "Comment [Land units without ranged strength heal 15 damage upon killing an enemy.]", "[+15]% Strength <when attacking>" ],
-		"cities": ["Kholinar","Rathalas","Revolar","Dumadari","Karanak","Hearthstone","Savalashi","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": [
+			"Kholinar",
+			"Rathalas",
+			"Revolar",
+			"Dumadari",
+			"Karanak",
+			"Hearthstone",
+			"Savalashi",
+			"Q'Vronens",
+			"Q'Aerlae",
+			"Q'Phulnoith",
+			"Q'Creved",
+			"Q'Xirqen",
+			"Q'Gax",
+			"Q'Threqals",
+			"Q'Bhilmuk",
+			"Q'Mazea",
+			"Q'Zomirs",
+			"Q'Drorkrex",
+			"Q'Honkrath",
+			"Q'Zulgra",
+			"Q'Vahars",
+			"Q'Crindith",
+			"Q'Raavraes",
+			"Q'Bhoknais",
+			"Qho'Qru",
+			"Q'Dateatz",
+			"Q'Elnad",
+			"Q'Izien",
+			"Qol'Ell",
+			"Q'Dhihien",
+			"Q'Naquiel",
+			"Q'Ugneon",
+			"Q'Straquks",
+			"Q'Nulptr",
+			"Q'Ohfahl"
+		]
 	}
 ]
