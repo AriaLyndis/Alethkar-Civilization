@@ -1,2 +1,16 @@
 [
+	{
+		"name": "Test Post",
+		"unitType": "Sword",
+		"uniqueTo": "Alethkar",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+        "uniques": ["[This Unit] gains the [Cover I] status for [2] turn(s) <upon defeating a [Any] unit>"],
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
+	}
 ]
