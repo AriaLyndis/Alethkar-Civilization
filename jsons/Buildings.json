@@ -12,10 +12,8 @@
 		"replaces": "Water Mill",
 		"uniqueTo": "Alethkar",
 		"maintenance": 2,
-		"food": 2,
-		"production": 1,
 		"hurryCostModifier": 25,
-		"uniques": [ "[+1 Food] from [Mine] tiles [in this city]", "[+1 Food] from [Quarry] tiles [in this city]"],
+		"uniques": ["[+1 Food] from [Mine] tiles [in this city]", "[+1 Food] from [Quarry] tiles [in this city]"],
 		"requiredTech": "The Wheel"
 	}
 ]
