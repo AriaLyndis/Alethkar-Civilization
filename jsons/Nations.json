@@ -29,7 +29,7 @@
 		"outerColor": [ 2, 65, 112 ],
 		"innerColor": [ 240, 198, 12 ],
 		"uniqueName": "The Thrill",
-		"uniques": [ "[+15]% Strength <when attacking>", "[All] gains the [Cover I] status for [1] turn(s) <upon defeating a [All] unit>" ],
+		"uniques": [ "[+15]% Strength <when attacking>", "[military units] gains the [Cover I] status for [1] turn(s) <upon defeating a [Military] unit>" ],
 		"cities": [
 			"Kholinar",
 			"Shulin",
